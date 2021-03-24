@@ -1,6 +1,8 @@
 var flag = true;
 var matrix = new Array(4);
+
 createArray();
+
 $(document).ready(function () {
   var str ;
   var idr ;
